@@ -1,0 +1,14 @@
+{
+    "name": "Windows Blog",
+    "short_name": "Windows Blog",
+    "icons": [
+        {
+            "src": "/android-chrome-48x48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#1098bf",
+    "background_color": "#1098bf",
+    "display": "standalone"
+}
